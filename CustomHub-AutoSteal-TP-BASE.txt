@@ -9,7 +9,7 @@ local Lighting = game:GetService("Lighting")
 local Players = game:GetService("Players")
 local Player = Players.LocalPlayer
  
-local key = "Custom hub"
+local key = "TestKey"
 local discordLink = "https://discord.gg/???"
 local scriptToLoad = [[
 local Players = game:GetService("Players")
