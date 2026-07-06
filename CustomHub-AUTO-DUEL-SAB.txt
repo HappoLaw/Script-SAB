@@ -1,5 +1,5 @@
 --[[
-    L4ZY DUEL - Complete final version
+    CUSTOM DUEL - Complete final version
     - Progress bar attached below main panel
     - Drop button integrated
     - Working waypoint offsets (negative allowed)
